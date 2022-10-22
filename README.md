@@ -20,13 +20,13 @@
 
 ## الروبوتات التي يمكنك نشرها <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">تواصل معي:</h3>
 <p align="left">
-<a href="https://instagram.com/pepe.sir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pepe.sir_" height="30" width="40" /></a><a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
+<a href="https://instagram.com/a_d_a_l_l_a_h?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pepe.sir_" height="30" width="40" /></a><a href="https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">اللغات والأدوات:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pepesir" alt="pepesir" /></a> </p>
