@@ -1,24 +1,24 @@
 
 
-![My card name](https://cardivo.vercel.app/api?name=ELGAZAR_ALWAZER&description=هاي,%20مرحبا%20بك%20في%20بروفايلي%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=a_b_d_a_l_l_a_h_&github=ELGAZAR&twitter=&ELGAZAR_00=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=ELGAZAR_ALWAZER&description=هاي,%20مرحبا%20بك%20في%20بروفايلي%20❤&image=https://telegra.ph/file/9d09a00e6c16ca29eead1.jpgu/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=a_b_d_a_l_l_a_h_&github=ELGAZAR&twitter=&ELGAZAR_00=leaf&colorPattern=%23eaeaea)
 
-<h1 align="center">Hi 👋, I'm Roshan</h1>
+<h1 align="center">مرحبا 👋, انا الجزار</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
 
-- 🔭 I’m currently working on wa bots
+- 🔭 أنا أعمل حاليًا على برامج البوتات
 
-- 🌱 I’m currently learning **java**
+- 🌱 أتعلم حاليًا **java**
 
-- 🤝 I’m looking for help with Nothing
+- 🤝 أنا أبحث عن مساعدة بخصوص لا شيء
 
-- 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro)
+- 📫 للتواصل معي [me](https://Wa.me/+201098906252?text=هلا%20P3P3%20يحب)
 
-- 💬 Ask me about my future projects 👽
+- 💬 اسألني عن مشاريعي المستقبلية 👽
 
 
 
-## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
+## الروبوتات التي يمكنك نشرها <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/Udydjuhxjfsk/CheemsBot-MD4"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
